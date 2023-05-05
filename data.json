@@ -1,0 +1,226 @@
+[
+    {
+      "id": 1,
+      "picture": "https://scpr.brightspotcdn.com/dims4/default/339bf1a/2147483647/strip/true/crop/640x446+0+0/resize/880x613!/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.amazonaws.com%2Flegacy%2Fi%2F82c3d8d76fb11fa02f7509d3fa5a95ed%2F5b2c43764488b3000927747b-original.jpg",
+      "name": "Alice Smith",
+      "years_of_experience": 8, 
+      "number_of_recipes": 3,
+      "likes": 1500,
+      "description": "The Chef de Cuisine is responsible for supporting the Executive Chef in managing the daily operation of the X kitchen. Responsibility includes overseeing production and staff management including hot line, cold line, pastry, second shift, dish, expo, LinkedIn, and software administrator.",
+      "recepies" : [
+        {
+          "recipe_number" : 1,
+          "recipe_name": "Kung Pao Chicken",
+          "recipe_img": "https://www.chewoutloud.com/wp-content/uploads/2022/08/Kung-Pao-Chicken-Horizontal.jpg",
+          "ingredients": ["chicken breast", "cornstarch", "soy sauce", "rice vinegar", "brown sugar", "hoisin sauce", "dried red chilies", "garlic", "ginger", "green onions", "roasted peanuts"],
+          "cooking_method": "1. Cut chicken breast into bite-sized pieces and coat with cornstarch. 2. In a small bowl, mix soy sauce, rice vinegar, brown sugar, and hoisin sauce. 3. Heat a wok or large skillet over high heat. 4. Add oil to the pan and swirl to coat. 5. Stir-fry chicken until cooked through. 6. Add dried red chilies, garlic, and ginger and stir-fry for 1-2 minutes. 7. Add the soy sauce mixture and stir until the sauce thickens. 8. Stir in green onions and roasted peanuts. 9. Serve hot with rice.",
+          "rating": 4.7
+        },
+        {
+          "recipe_number" : 2,
+          "recipe_name": "Egg Fried Rice",
+          "recipe_img": "https://www.deliciousmagazine.co.uk/wp-content/uploads/2018/07/833982-1-eng-GB_egg-fried-rice-and-veg-stir-fry.jpg",
+          "ingredients": ["cooked rice", "eggs", "carrots", "frozen peas", "soy sauce", "oil", "salt"],
+          "cooking_method": "1. Heat oil in a wok or large skillet over high heat. 2. Add eggs to the pan and scramble until cooked through. 3. Add carrots and frozen peas to the pan and stir-fry for 2-3 minutes. 4. Add cooked rice to the pan and stir-fry for 3-4 minutes or until heated through. 5. Add soy sauce and salt to taste and stir to combine. 6. Serve hot.",
+          "rating": 4.2
+        },
+        {
+          "recipe_number" : 3,
+          "recipe_name": "Hot and Sour Soup",
+          "recipe_img": "https://www.thespruceeats.com/thmb/fJH7ljHGLn_vWUTLyITtr4haEoM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TomYumSoup-5a0f340989eacc0037b085f5.jpg",
+          "ingredients": ["chicken broth", "tofu", "wood ear mushrooms", "bamboo shoots", "white vinegar", "soy sauce", "sugar", "cornstarch", "eggs", "sesame oil"],
+          "cooking_method": "1. Bring chicken broth to a boil in a pot. 2. Add tofu, wood ear mushrooms, and bamboo shoots to the pot and simmer for 5-7 minutes. 3. In a small bowl, mix white vinegar, soy sauce, sugar, and cornstarch. 4. Slowly pour the mixture into the pot and stir until the soup thickens. 5. Beat eggs in a small bowl and slowly pour into the pot while stirring the soup. 6. Drizzle with sesame oil and serve hot.",
+          "rating": 4.4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "picture": "https://www.stlmag.com/downloads/308452/download/JackMacMurray_0068.jpg?cb=08c9639c8686edd675842ee16f282fbd",
+      "name": "Bob Johnson",
+      "years_of_experience": 12,
+      "number_of_recipes": 3,
+      "likes": 3000,
+      "description": "The Chef de Cuisine is responsible for supporting the Executive Chef in managing the daily operation of the X kitchen. Responsibility includes overseeing production and staff management including hot line, cold line, pastry, second shift, dish, expo, LinkedIn, and software administrator.",
+      "recepies" : [
+        {
+          "recipe_number": 1,
+          "recipe_name": "Beef and Broccoli Stir-Fry",
+          "recipe_img": "https://todaysparent.mblycdn.com/uploads/tp/2017/01/beef-and-broccoli-stir-fry-recipe-1280x960.jpg",
+          "ingredients": ["flank steak", "soy sauce", "hoisin sauce", "cornstarch", "vegetable oil", "broccoli florets", "minced garlic", "minced ginger", "beef broth", "sesame oil"],
+          "cooking_method": "1. Cut the beef into thin strips and marinate in soy sauce, hoisin sauce, and cornstarch for 30 minutes. 2. Heat oil in a wok over high heat and stir-fry the beef until browned. 3. Remove the beef and set aside. 4. Stir-fry the broccoli, garlic, and ginger until tender. 5. Add the beef back to the wok and pour in the beef broth. 6. Cook for a few minutes until the sauce thickens. 7. Stir in the sesame oil. Serve with rice.",
+          "rating": 4.7
+        },
+        {
+          "recipe_number": 2,
+          "recipe_name": "Sesame Noodles",
+          "recipe_img": "https://static01.nyt.com/images/2017/08/23/dining/23COOKING-TAKEOUTSESAMENOODLES2/23COOKING-TAKEOUTSESAMENOODLES2-articleLarge-v2.jpg",
+          "ingredients": ["Chinese egg noodles", "sesame paste", "soy sauce", "rice vinegar", "sugar", "minced garlic", "minced ginger", "hot chili oil", "scallions", "toasted sesame seeds"],
+          "cooking_method": "1. Cook the noodles according to the package instructions. 2. In a mixing bowl, whisk together the sesame paste, soy sauce, rice vinegar, sugar, garlic, ginger, and hot chili oil. 3. Drain the noodles and toss them in the sauce. 4. Top with sliced scallions and toasted sesame seeds.",
+          "rating": 4.3
+        },
+        {
+          "recipe_number": 3,
+          "recipe_name": "Shrimp Fried Rice",
+          "recipe_img": "https://www.chilipeppermadness.com/wp-content/uploads/2022/08/Shrimp-Fried-Rice-SQ.jpg",
+          "ingredients": ["cooked rice", "shrimp", "eggs", "frozen peas and carrots", "soy sauce", "sesame oil", "green onions"],
+          "cooking_method": "1. Heat oil in a wok or large skillet over high heat. 2. Add the shrimp and stir-fry until cooked through. 3. Move the shrimp to one side of the wok and pour in the beaten eggs. Scramble the eggs until fully cooked. 4. Add the frozen peas and carrots to the wok and stir-fry for a minute. 5. Add the cooked rice and soy sauce to the wok and stir-fry for a few minutes. 6. Stir in sesame oil and green onions. Serve hot.",
+          "rating": 4.4
+        }
+       
+      ]
+  
+    },
+    {
+      "id": 3,
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR5BkoJRU09JNYJNs7mlhwpsZKKiCex-a4VwOzlSqzPPtakP0-b07wnmZmKgXpScQvwpA",
+      "name": "Pablano",
+      "years_of_experience": 6,
+      "number_of_recipes": 3,
+      "likes": 800,
+      "description": "The Chef de Cuisine is responsible for supporting the Executive Chef in managing the daily operation of the X kitchen. Responsibility includes overseeing production and staff management including hot line, cold line, pastry, second shift, dish, expo, LinkedIn, and software administrator.",
+      
+      "recepies" : [
+        {
+          "recipe_number": 1,
+          "recipe_name": "Steamed Fish with Ginger and Scallions",
+          "recipe_img": "https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_chinese_style_steamed_cod-89_nszepy",
+          "ingredients": ["whole fish", "ginger", "scallions", "soy sauce", "rice wine", "sugar", "sesame oil"],
+          "cooking_method": "1. Clean and scale the fish, and make several deep cuts on each side. 2. Cut the ginger and scallions into thin strips. 3. Place the fish on a heatproof dish and scatter the ginger and scallions on top. 4. In a small bowl, mix together the soy sauce, rice wine, and sugar, and pour the mixture over the fish. 5. Steam the fish over high heat for 10-15 minutes, until cooked through. 6. Drizzle sesame oil over the fish before serving.",
+          "rating": 4.7
+        },
+        {
+          "recipe_number": 2,
+          "recipe_name": "Dan Dan Noodles",
+          "recipe_img": "https://takestwoeggs.com/wp-content/uploads/2022/02/Dan-Dan-Noodles-Dan-Dan-Mian-5overhead-sq.jpg",
+          "ingredients": ["Chinese egg noodles", "ground pork", "Sichuan peppercorns", "doubanjiang (chili bean paste)", "minced garlic", "minced ginger", "chicken broth", "soy sauce", "sesame oil", "green onions"],
+          "cooking_method": "1. Cook the noodles according to the package instructions. 2. Brown the ground pork in a wok or large skillet. 3. Add in the Sichuan peppercorns, doubanjiang, garlic, and ginger, and stir-fry for 1-2 minutes. 4. Pour in the chicken broth and soy sauce, and simmer for 5-10 minutes. 5. Drain the noodles and divide them into serving bowls. 6. Ladle the pork and sauce over the noodles. 7. Drizzle with sesame oil and sprinkle with sliced green onions.",
+          "rating": 4.5
+        },
+        {
+          "recipe_number": 3,
+          "recipe_name": "Scallion Pancakes",
+          "recipe_img": "https://omnivorescookbook.com/wp-content/uploads/2020/08/200730_Scallion-Pancakes_550.jpg",
+          "ingredients": ["all-purpose flour", "water", "salt", "sesame oil", "chopped scallions"],
+          "cooking_method": "1. In a mixing bowl, combine flour, water, and salt to form a dough. 2. Knead the dough until smooth, cover with a damp towel, and let rest for 30 minutes. 3. Divide the dough into small balls and roll them out into thin circles. 4. Brush each circle with sesame oil and sprinkle chopped scallions on top. 5. Roll up each circle into a tight spiral and flatten it into a pancake shape. 6. Heat a non-stick pan over medium-high heat and cook each pancake until crispy and golden brown on both sides. Serve hot.",
+          "rating": 4.2
+        }
+       
+      ]
+    },
+    {
+      "id": 4,
+      "picture": "https://www.hapskorea.com/wp-content/uploads/2021/03/Chef-Sun-Kim.jpg",
+      "name": "David Lee",
+      "years_of_experience": 15,
+      "number_of_recipes": 3,
+      "likes": 5000,
+      "description": "The Chef de Cuisine is responsible for supporting the Executive Chef in managing the daily operation of the X kitchen. Responsibility includes overseeing production and staff management including hot line, cold line, pastry, second shift, dish, expo, LinkedIn, and software administrator.",
+      "recepies" : [
+        {
+          "recipe_number": 1,
+          "recipe_name": "Hainanese Chicken Rice",
+          "recipe_img": "https://redhousespice.com/wp-content/uploads/2017/09/easy-hainanese-chicken-rice-scaled.jpg",
+          "ingredients": ["chicken", "rice", "garlic", "ginger", "scallions", "sesame oil", "soy sauce", "chicken broth", "cucumber", "cilantro"],
+          "cooking_method": "1. In a pot, bring chicken broth to a boil and add the chicken, garlic, ginger, and scallions. 2. Simmer for 30-40 minutes, or until the chicken is fully cooked. 3. Remove the chicken and set it aside to cool, reserving the broth. 4. Wash and rinse the rice, and cook it in the reserved chicken broth. 5. Once the rice is done, fluff it and mix in minced garlic and sesame oil. 6. Carve the chicken into bite-sized pieces and arrange them on a plate with sliced cucumber and cilantro. 7. Serve with the garlic sesame rice and soy sauce for dipping.",
+          "rating": 4.8
+        },
+        {
+          "recipe_number": 2,
+          "recipe_name": "Szechuan Beef",
+          "recipe_img": "https://www.chilipeppermadness.com/wp-content/uploads/2021/06/Szechuan-Beef-SQ.jpg",
+          "ingredients": ["flank steak", "cornstarch", "soy sauce", "hoisin sauce", "rice vinegar", "sugar", "minced garlic", "minced ginger", "dried red chili peppers", "green onions"],
+          "cooking_method": "1. Slice the flank steak into thin strips and toss with cornstarch. 2. In a mixing bowl, combine soy sauce, hoisin sauce, rice vinegar, and sugar. 3. In a wok or large skillet, stir-fry the garlic, ginger, and dried chili peppers for a few minutes. 4. Add the beef and stir-fry until browned. 5. Pour in the sauce and continue stir-frying until the beef is fully cooked and the sauce has thickened. 6. Stir in chopped green onions and serve over rice.",
+          "rating": 4.7
+        },
+        {
+          "recipe_number": 3,
+          "recipe_name": "Shrimp and Broccoli Stir-Fry",
+          "recipe_img":"https://healthyfitnessmeals.com/wp-content/uploads/2021/10/Shrimp-and-broccoli-skillet-8.jpg",
+          "ingredients": ["large shrimp", "broccoli", "garlic", "ginger", "cornstarch", "soy sauce", "rice wine", "sugar", "vegetable oil"],
+          "cooking_method": "1. Clean and devein the shrimp, and cut the broccoli into bite-sized pieces. 2. In a mixing bowl, combine cornstarch, soy sauce, rice wine, and sugar. 3. In a wok or large skillet, heat vegetable oil and stir-fry the garlic and ginger until fragrant. 4. Add the shrimp and stir-fry until pink. 5. Add the broccoli and continue stir-frying until tender. 6. Pour in the sauce and stir until well combined. 7. Serve hot over rice.",
+          "rating": 4.5,
+          "image_link": "https://www.eatwell101.com/wp-content/uploads/2019/04/shrimp-broccoli-stir-fry-recipe.jpg"
+        }
+        
+       
+      ]
+    },
+    {
+      "id": 5,
+      "picture": "https://s.hdnux.com/photos/01/20/25/63/21060857/4/rawImage.jpg",
+      "name": "Emily Davis",
+      "years_of_experience": 10,
+      "number_of_recipes": 3,
+      "likes": 2500,
+      "description": "The Chef de Cuisine is responsible for supporting the Executive Chef in managing the daily operation of the X kitchen. Responsibility includes overseeing production and staff management including hot line, cold line, pastry, second shift, dish, expo, LinkedIn, and software administrator.",
+      "recepies" : [
+        {
+          "recipe_number": 1,
+          "recipe_name": "Crispy Fried Chicken Wings",
+          "recipe_img": "https://hips.hearstapps.com/vidthumb/images/delish-fried-chicken-wings-seo-1new-1540589238.jpg?crop=0.564xw:1.00xh;0.220xw,0&resize=1200:*",
+          "ingredients": ["chicken wings", "salt", "pepper", "cornstarch", "flour", "egg", "water", "vegetable oil"],
+          "cooking_method": "1. Season the chicken wings with salt and pepper. 2. In a mixing bowl, combine cornstarch and flour. 3. In a separate bowl, whisk together egg and water. 4. Dip the chicken wings in the egg mixture, then coat with the flour mixture. 5. Heat vegetable oil in a deep fryer or large pot. 6. Fry the chicken wings until golden brown and crispy. 7. Drain on a paper towel and serve hot.",
+          "rating": 4.6,
+          "image_link": "https://www.chinasichuanfood.com/wp-content/uploads/2017/07/Crispy-Fried-Chicken-Wings-2.jpg"
+        },
+        {
+          "recipe_number": 2,
+          "recipe_name": "Ma La Xiang Guo (Spicy Numbing Stir Fry)",
+          "recipe_img": "https://data.thefeedfeed.com/recommended/post_1196144.jpg",
+          "ingredients": ["dried chili peppers", "Sichuan peppercorns", "ground pork", "tofu skin", "enoki mushrooms", "bok choy", "baby corn", "green beans", "potatoes", "bean sprouts", "lotus root", "dried black fungus", "oil", "soy sauce", "sugar", "sesame oil"],
+          "cooking_method": "1. Soak the dried chili peppers and Sichuan peppercorns in hot water for 10 minutes. 2. In a wok or large skillet, stir-fry the ground pork until browned. 3. Add in the soaked chili peppers and Sichuan peppercorns, and continue stir-frying for another minute. 4. Add in the remaining vegetables and stir-fry until tender. 5. Season with soy sauce, sugar, and sesame oil. 6. Serve hot over rice.",
+          "rating": 4.5,
+          "image_link": "https://omnivorescookbook.com/wp-content/uploads/2018/09/2018-09-28-mala-xiang-guo-11.jpg"
+        },
+        {
+          "recipe_number": 3,
+          "recipe_name": "Chongqing Chicken (La Zi Ji)",
+          "recipe_img": "https://thewoksoflife.com/wp-content/uploads/2015/04/chongqing-chicken-10.jpg",
+          "ingredients": ["chicken thighs", "dried red chili peppers", "Sichuan peppercorns", "garlic", "ginger", "scallions", "soy sauce", "rice wine", "sugar", "cornstarch", "oil", "sesame oil"],
+          "cooking_method": "1. Cut the chicken thighs into bite-sized pieces and marinate with soy sauce, rice wine, sugar, and cornstarch. 2. In a wok or large skillet, heat up oil and stir-fry the dried chili peppers and Sichuan peppercorns until fragrant. 3. Add in the chicken pieces and continue stir-frying until fully cooked. 4. Stir in minced garlic, ginger, and chopped scallions. 5. Season with soy sauce and sesame oil. 6. Serve hot over rice.",
+          "rating": 4.8,
+          "image_link": "https://www.chinasichuanfood.com/wp-content/uploads/2015/12/Chongqing-chicken-3.jpg"
+        }
+       
+      ]
+    },
+    {
+      "id": 6,
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMMMw4U6M8BG9dXO9Dv8ZtUizXjhglFVSvEF6-1q80PUlPCagoFl1uMPhoOsbOLAsLaok",
+      "name": "Frank Wilson",
+      "years_of_experience": 4,
+      "number_of_recipes": 3,
+      "likes": 500,
+      "description": "The Chef de Cuisine is responsible for supporting the Executive Chef in managing the daily operation of the X kitchen. Responsibility includes overseeing production and staff management including hot line, cold line, pastry, second shift, dish, expo, LinkedIn, and software administrator.",
+      "recepies" : [
+        {
+          "recipe_number": 1,
+          "recipe_name": "Steamed Fish with Ginger and Scallions",
+          "recipe_img": "https://3catsfoodie.com/wp-content/uploads/2022/01/5951CABA-17B0-4EA6-8B02-2F532C94DB83_1_201_a.jpeg",
+          "ingredients": ["whole fish", "ginger", "scallions", "soy sauce", "rice wine", "sugar", "sesame oil"],
+          "cooking_method": "1. Clean and scale the fish, and make several deep cuts on each side. 2. Cut the ginger and scallions into thin strips. 3. Place the fish on a heatproof dish and scatter the ginger and scallions on top. 4. In a small bowl, mix together the soy sauce, rice wine, and sugar, and pour the mixture over the fish. 5. Steam the fish over high heat for 10-15 minutes, until cooked through. 6. Drizzle sesame oil over the fish before serving.",
+          "rating": 4.7
+        },
+        {
+          "recipe_number": 2,
+          "recipe_name": "Ma La Xiang Guo (Spicy Numbing Stir Fry)",
+          "recipe_img": "https://thewoksoflife.com/wp-content/uploads/2015/10/ma-la-xiang-guo-10-1-500x500.jpg",
+          "ingredients": ["dried chili peppers", "Sichuan peppercorns", "ground pork", "tofu skin", "enoki mushrooms", "bok choy", "baby corn", "green beans", "potatoes", "bean sprouts", "lotus root", "dried black fungus", "oil", "soy sauce", "sugar", "sesame oil"],
+          "cooking_method": "1. Soak the dried chili peppers and Sichuan peppercorns in hot water for 10 minutes. 2. In a wok or large skillet, stir-fry the ground pork until browned. 3. Add in the soaked chili peppers and Sichuan peppercorns, and continue stir-frying for another minute. 4. Add in the remaining vegetables and stir-fry until tender. 5. Season with soy sauce, sugar, and sesame oil. 6. Serve hot over rice.",
+          "rating": 4.5,
+          "image_link": "https://omnivorescookbook.com/wp-content/uploads/2018/09/2018-09-28-mala-xiang-guo-11.jpg"
+        },
+        {
+          "recipe_number": 3,
+          "recipe_name": "Shrimp Fried Rice",
+          "recipe_img": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/10/5/0/FNM_110111-WN-Dinners-056_s4x3.jpg.rend.hgtvcom.616.462.suffix/1371600961819.jpeg",
+          "ingredients": ["cooked rice", "shrimp", "eggs", "frozen peas and carrots", "soy sauce", "sesame oil", "green onions"],
+          "cooking_method": "1. Heat oil in a wok or large skillet over high heat. 2. Add the shrimp and stir-fry until cooked through. 3. Move the shrimp to one side of the wok and pour in the beaten eggs. Scramble the eggs until fully cooked. 4. Add the frozen peas and carrots to the wok and stir-fry for a minute. 5. Add the cooked rice and soy sauce to the wok and stir-fry for a few minutes. 6. Stir in sesame oil and green onions. Serve hot.",
+          "rating": 4.4
+        }
+       
+      ]
+    }
+  ]
+  
